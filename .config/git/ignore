@@ -1,0 +1,23 @@
+# ===== secrets =====
+.ssh/
+.gnupg/
+.aws/
+.kube/
+.netrc
+
+# ===== shell history =====
+.bash_history
+.zsh_history
+.lesshst
+
+# ===== cache =====
+.cache/
+.local/share/Trash/
+.npm/
+.pip/
+
+# ===== editor =====
+*~
+*.swp
+*.swo
+

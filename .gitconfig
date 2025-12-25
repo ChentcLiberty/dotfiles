@@ -1,0 +1,15 @@
+[user]
+    name = jjt
+    email = your@email.com
+
+[core]
+    excludesfile = ~/.config/git/ignore
+    editor = vim
+
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+    lg = log --oneline --graph --decorate
+
