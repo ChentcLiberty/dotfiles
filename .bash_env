@@ -1,0 +1,9 @@
+# editor
+export EDITOR=vim
+
+# language
+export LANG=en_US.UTF-8
+
+# path
+export PATH="$HOME/bin:$PATH"
+
